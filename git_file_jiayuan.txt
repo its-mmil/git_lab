@@ -1,1 +1,2 @@
 How do you think of Pyret?
+It is a good programming language.
